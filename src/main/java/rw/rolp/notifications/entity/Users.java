@@ -2,6 +2,9 @@ package rw.rolp.notifications.entity;
 
 import javax.persistence.*;
 
+/**
+ * @author Nzuwera
+ */
 @Entity
 @Table(name="Users")
 public class Users {
