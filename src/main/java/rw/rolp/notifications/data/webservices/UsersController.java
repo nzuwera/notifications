@@ -1,7 +1,7 @@
-package rw.rolp.notifications.webservices;
+package rw.rolp.notifications.data.webservices;
 
-import rw.rolp.notifications.entity.Users;
-import rw.rolp.notifications.repository.UsersRepository;
+import rw.rolp.notifications.data.entity.Users;
+import rw.rolp.notifications.data.repository.UsersRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,12 +1,14 @@
-package rw.rolp.notifications.entity;
+package rw.rolp.notifications.data.entity;
 
 import javax.persistence.*;
+import javax.persistence.Entity;
 
 /**
  * @author Nzuwera
  */
+
 @Entity
-@Table(name="Users")
+@Table(name="users")
 public class Users {
     @Id
     @Column(name="UserId")

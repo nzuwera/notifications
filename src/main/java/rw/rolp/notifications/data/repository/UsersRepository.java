@@ -1,6 +1,6 @@
-package rw.rolp.notifications.repository;
+package rw.rolp.notifications.data.repository;
 
-import rw.rolp.notifications.entity.Users;
+import rw.rolp.notifications.data.entity.Users;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
